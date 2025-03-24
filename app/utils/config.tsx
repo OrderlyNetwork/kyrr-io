@@ -51,9 +51,9 @@ const config: OrderlyConfig = {
       },
     },
     footerProps: {
-      telegramUrl: "https://orderly.network",
-      discordUrl: "https://discord.com/invite/orderlynetwork",
-      twitterUrl: "https://twitter.com/OrderlyNetwork",
+      telegramUrl: "https://t.me/tg_kyrrio",
+      discordUrl: "https://discord.com/invite/dEmKN79sar",
+      twitterUrl: "https://x.com/KyrrioOfficial",
       trailing: <span className="oui-text-2xs oui-text-base-contrast-54">Charts powered by <a href="https://tradingview.com" target="_blank" rel="noopener noreferrer">TradingView</a></span>
     },
   },
