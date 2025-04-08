@@ -75,10 +75,8 @@ const config: OrderlyConfig = {
     },
     sharePnLConfig: {
       backgroundImages: [
-        "/pnl/poster_bg_1.png",
-        "/pnl/poster_bg_2.png",
-        "/pnl/poster_bg_3.png",
-        "/pnl/poster_bg_4.png",
+        "/pnl/poster_bg_1.webp",
+        "/pnl/poster_bg_2.webp",
       ],
 
       color: "rgba(255, 255, 255, 0.98)",
