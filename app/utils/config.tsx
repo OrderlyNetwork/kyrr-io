@@ -25,6 +25,8 @@ const config: OrderlyConfig = {
         { name: "Trading", href: "/" },
         { name: "Portfolio", href: "/portfolio" },
         { name: "Markets", href: "/markets" },
+        { name: "Swap", href: "https://kyrr.io/swap", target: "_blank" },
+        { name: "Website", href: "https://kyrr.io", target: "_blank" },
       ],
       campaigns: {
         name: "Reward",
@@ -83,10 +85,6 @@ const config: OrderlyConfig = {
       profitColor: "rgba(41, 223, 169, 1)",
       lossColor: "rgba(245, 97, 139, 1)",
       brandColor: "rgba(255, 255, 255, 0.98)",
-
-      // ref
-      refLink: "https://orderly.network",
-      refSlogan: "Orderly referral",
     },
   },
 };
